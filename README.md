@@ -1,2 +1,2 @@
-# migrar_a_mariadb
-Programa en POWERBUILDER para migrar Modelos y Datos a la Base de Datos MariaDB
+# migrar_mariadb
+Programa para Migrar desde una Coneccion ODBC de Windows 32bits a MYSQL
